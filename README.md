@@ -1,6 +1,5 @@
 # GenRC: 3D Indoor Scene Generation from Sparse Image Collections
-### [Project Page](https://minfenli.github.io/GenRC/) 
-<!-- | [arXiv](https://arxiv.org/abs/) -->
+### [Project Page](https://minfenli.github.io/GenRC/) | [arXiv](https://arxiv.org/abs/2407.12939)
 
 This repository will contain the official implementation of [GenRC](https://minfenli.github.io/GenRC/), an automated training-free pipeline to complete a room-scale 3D mesh with sparse RGBD observations. The source codes will be released soon.
 
