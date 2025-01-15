@@ -56,6 +56,12 @@ Download [the preprocessed ScanNetV2 dataset](https://drive.google.com/file/d/12
 mkdir input && unzip scans_keyframe.zip -d input && mv input/scans_keyframe input/ScanNetV2
 ```
 
+(Optional) Copy the file to identify the sampled test scenes.
+
+```bash
+cp test_scenes.txt input/ScanNetV2/test_scenes.txt
+```
+
 (Optional) Prepare test frames for textual inversion and prepare a script file for running textual inversion.
 ```bash
 python prepare_textual_inversion_data_RGBD2.py 
